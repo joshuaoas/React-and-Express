@@ -1,0 +1,1 @@
+reducers take input from the actions and store the state changes in the store
