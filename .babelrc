@@ -1,0 +1,5 @@
+//rules that babel will use to transpile
+{
+  "presets": ["es2017", "react"],
+  "plugins": ["react-hot-loader/babel"]
+}
